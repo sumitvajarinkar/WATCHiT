@@ -276,6 +276,7 @@ main{
   }
   /* When the height of the screen is less than 450 pixels, change the font-size of the links and position the close button again, so they don't overlap */
   @media screen and (max-height: 450px) {
+   
     .overlay a {font-size: 20px}
     .overlay .closebtn {
       font-size: 40px;
@@ -327,4 +328,10 @@ main{
 
 .dots .dot.active{
     border-color: orange;
+}
+
+@media(max-width:390px){
+    .logo p{
+        display: none;
+    }
 }

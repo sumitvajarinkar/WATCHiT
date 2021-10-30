@@ -66,9 +66,24 @@ transition: all 0.3s ease;
 .realse{
     color:#888;
 }
+@media(max-width:650px){
+    .embed.show {
+        display: inline-block;
+        width: 80%;
+    }
+    .des{
+        width: 80%;
+    }
+}
 @media(max-width:451px){
+    .bannerTitle{
+        font-size: 2rem;
+    }
+    
 .Banner{
     padding-top:40%;
+    height: auto;
+    padding-bottom: 60px;
 }
 }
 @media(max-width:390px){
