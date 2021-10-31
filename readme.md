@@ -4,6 +4,18 @@
 </div>
 <br>
 
+
+## Our this website got 1st prize in MindSpark 2021 Web Design Event.🎉🙌
+
+MindSpark is the annual, national level technical festival of College of Engineering, Pune.
+Over a span of 14 years, MindSpark has grown to become one of the biggest technical college fests in the country.
+
+## Team
+
+- [@Sumit Vajarinkar](https://github.com/sumitvajarinkar)
+- [@Jaydeep Shelake](https://github.com/jaydeep-shelake)
+
+
 >Track 3 – Entertainment and Media <br>
 >Movies/TV Shows Website built using HTML ,CSS, JS and API <br>
 > Website made for MindSpark (COEP) Web Design event 
