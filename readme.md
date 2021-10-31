@@ -52,4 +52,4 @@ Over a span of 14 years, MindSpark has grown to become one of the biggest techni
 <br>
 
 
-### Deployment Link : https://sumitvajarinkar.github.io/WATCHit
+### Deployment Link : https://github.com/sumitvajarinkar/WATCHiT
