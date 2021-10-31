@@ -5,9 +5,9 @@
 <br>
 
 
-## Our this website got 1st prize in MindSpark 2021 Web Design Event.🎉🙌
+## WATCHiT website got 1st prize in MindSpark'21 Web Design Event.🎉🙌
 
-MindSpark is the annual, national level technical festival of College of Engineering, Pune.
+MindSpark is the annual, national level technical festival of <b>College of Engineering, Pune</b>.
 Over a span of 14 years, MindSpark has grown to become one of the biggest technical college fests in the country.
 
 ## Team
